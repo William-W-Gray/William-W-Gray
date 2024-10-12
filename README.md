@@ -12,6 +12,15 @@
 - 👨‍💻 All of my projects are available at [https://william-gray-portfolio.netlify.app/](https://william-gray-portfolio.netlify.app/)
 
 - 📫 How to reach me **graywilliamwiltino@gmail.com**
+- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=William-W-Gray&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=William-W-Gray&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
